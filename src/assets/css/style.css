@@ -1,0 +1,55 @@
+.container {
+  width: 1140px;
+  margin: auto;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+.card {
+  background-color: rgb(185, 227, 167);
+}
+.btn-primarys {
+  background-color: rgb(185, 227, 167);
+  border: rgb(38, 105, 9);
+  color: black;
+}
+.btn {
+  font-weight: 400;
+}
+.btn-primarys:hover {
+  color: white;
+  background-color: rgb(37, 57, 32);
+}
+.btn-danger {
+  background-color: rgb(240, 77, 77);
+  color: black;
+}
+.btn-danger:hover {
+  background-color: rgb(84, 44, 44);
+}
+.my__container {
+  margin-left: 300px;
+}
+
+.myBlock-active {
+  background-color: rgb(34, 40, 33);
+}
+
+.title {
+  font-size: 50px;
+  margin-top: 50px;
+}
+.breadcrumb__item {
+  margin: 0px 10px;
+  color: black;
+  text-decoration: none;
+  font-weight: 500;
+}
+.breadcrumb__item:hover {
+  color: rgb(125, 121, 121);
+}
+.breadcrumb__actived {
+  color: gray;
+  cursor: auto;
+}

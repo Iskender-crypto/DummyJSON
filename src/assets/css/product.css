@@ -1,0 +1,11 @@
+.mb-2 {
+  background-color: rgb(118, 196, 127);
+  border-radius: 13px;
+  padding: 10px;
+}
+
+.ms-4 {
+  border-left: 1px solid gray;
+  padding: 5px 0px 5px 10px;
+  margin: 5px;
+}
